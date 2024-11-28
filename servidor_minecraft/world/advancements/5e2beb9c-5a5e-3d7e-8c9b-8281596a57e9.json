@@ -1,0 +1,1051 @@
+{
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2024-08-21 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-21 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-21 21:31:12 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-08-21 21:31:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-21 21:31:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-21 21:31:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-08-21 21:31:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-11-27 22:13:56 +0000",
+      "minecraft:frozen_river": "2024-10-21 21:23:24 +0000",
+      "minecraft:sunflower_plains": "2024-08-23 23:41:00 +0000",
+      "minecraft:cherry_grove": "2024-09-13 22:53:58 +0000",
+      "minecraft:wooded_badlands": "2024-10-22 22:05:17 +0000",
+      "minecraft:savanna_plateau": "2024-09-13 23:00:54 +0000",
+      "minecraft:beach": "2024-08-23 23:06:28 +0000",
+      "minecraft:mangrove_swamp": "2024-09-13 23:04:26 +0000",
+      "minecraft:sparse_jungle": "2024-10-22 21:58:55 +0000",
+      "minecraft:river": "2024-08-23 22:52:04 +0000",
+      "minecraft:lukewarm_ocean": "2024-10-21 22:54:14 +0000",
+      "minecraft:snowy_plains": "2024-08-21 21:56:01 +0000",
+      "minecraft:dripstone_caves": "2024-09-13 23:03:01 +0000",
+      "minecraft:snowy_taiga": "2024-10-21 21:23:39 +0000",
+      "minecraft:grove": "2024-08-21 21:31:12 +0000",
+      "minecraft:swamp": "2024-10-22 22:11:07 +0000",
+      "minecraft:cold_ocean": "2024-08-23 23:14:27 +0000",
+      "minecraft:forest": "2024-08-21 22:06:47 +0000",
+      "minecraft:frozen_ocean": "2024-08-21 21:59:36 +0000",
+      "minecraft:desert": "2024-10-22 22:04:41 +0000",
+      "minecraft:ocean": "2024-09-18 23:16:01 +0000",
+      "minecraft:snowy_beach": "2024-08-23 23:13:39 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-10-21 22:55:53 +0000",
+      "minecraft:flower_forest": "2024-09-03 01:44:02 +0000",
+      "minecraft:frozen_peaks": "2024-08-23 23:45:57 +0000",
+      "minecraft:meadow": "2024-09-03 01:14:47 +0000",
+      "minecraft:savanna": "2024-09-13 22:52:52 +0000",
+      "minecraft:plains": "2024-08-23 23:21:51 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-08-21 21:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-08-21 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2024-08-21 21:57:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-08-21 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-08-21 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2024-09-13 22:53:28 +0000",
+      "blackberries": "2024-09-03 01:49:42 +0000",
+      "strawberries": "2024-08-21 22:13:45 +0000",
+      "raspberries": "2024-08-21 22:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-21 22:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-21 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-08-21 22:26:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-08-21 22:26:40 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-08-21 22:43:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-08-21 22:51:10 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-08-22 00:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-22 00:11:34 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-08-22 01:57:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-23 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-08-23 21:58:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-08-23 21:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-23 22:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-23 22:04:30 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-08-23 22:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-23 22:52:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-08-23 22:52:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2024-08-23 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-08-23 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "suspicious_stew": "2024-09-03 00:04:03 +0000",
+      "upgrade_aquatic:mulberry": "2024-08-23 23:13:51 +0000",
+      "potato": "2024-09-03 01:15:33 +0000",
+      "bread": "2024-09-03 01:30:29 +0000",
+      "rotten_flesh": "2024-09-03 00:02:27 +0000",
+      "carrot": "2024-08-23 23:42:03 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-08-23 23:18:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-08-23 23:18:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-08-23 23:18:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-08-23 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-23 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-08-23 23:26:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-08-23 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-23 23:29:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-08-23 23:29:14 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-08-23 23:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-09-09 23:46:32 +0000",
+      "minecraft:skeleton": "2024-09-09 23:11:15 +0000",
+      "minecraft:ravager": "2024-10-21 00:11:35 +0000",
+      "minecraft:vindicator": "2024-09-16 22:05:35 +0000",
+      "minecraft:spider": "2024-08-23 23:50:55 +0000",
+      "minecraft:creeper": "2024-09-16 22:07:28 +0000",
+      "minecraft:cave_spider": "2024-09-23 23:34:15 +0000",
+      "minecraft:silverfish": "2024-09-09 23:11:39 +0000",
+      "minecraft:stray": "2024-09-23 23:37:20 +0000",
+      "minecraft:vex": "2024-09-16 23:57:17 +0000",
+      "minecraft:zombie": "2024-09-03 01:50:26 +0000",
+      "minecraft:drowned": "2024-11-27 22:37:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-08-23 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2024-08-24 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-08-24 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-08-25 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-09-02 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-02 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-02 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-09-02 23:58:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-09-03 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-09-03 01:17:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-09-03 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-09-03 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-09-03 01:48:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2024-09-04 02:25:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-09-05 20:06:39 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-09-09 22:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-09-09 22:56:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-09-09 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2024-09-09 23:13:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-09-09 23:15:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-09-09 23:28:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-09-09 23:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-09-13 20:03:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-13 20:03:55 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2024-09-13 20:23:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-09-13 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2024-09-13 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-09-13 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-09-13 20:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-13 20:54:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000",
+      "flower": "2024-10-21 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2024-09-13 21:17:08 +0000",
+      "flower": "2024-09-13 22:15:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2024-09-17 22:46:42 +0000",
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "resurrected": "2024-09-13 22:35:04 +0000",
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2024-09-18 23:56:36 +0000",
+      "main": "2024-09-13 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-09-13 22:14:56 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-09-13 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2024-09-13 22:44:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-09-13 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-09-13 23:03:03 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-09-13 23:03:03 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2024-09-16 22:01:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-09-16 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-17 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-09-18 22:14:12 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-09-18 22:14:12 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-09-18 22:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-09-18 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2024-09-18 22:52:08 +0000"
+    },
+    "done": false
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-09-18 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-09-18 23:16:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-09-20 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:mr_decoction": {
+    "criteria": {
+      "mr_decoction_0": "2024-09-20 23:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-09-21 22:34:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-09-21 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-09-21 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-09-22 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/gravemite": {
+    "criteria": {
+      "kill": "2024-09-25 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mummy": {
+    "criteria": {
+      "kill": "2024-09-25 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-09-25 22:44:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-09-25 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/halloween": {
+    "criteria": {
+      "coded_trigger": "2024-10-20 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_lollipop": {
+    "criteria": {
+      "coded_trigger": "2024-10-21 00:08:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/expert_tasting": {
+    "criteria": {
+      "eat_lollipop_3": "2024-10-21 00:08:00 +0000",
+      "eat_lollipop_5": "2024-10-21 00:11:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-10-21 00:16:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-10-21 00:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-10-21 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2024-10-21 00:46:51 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-10-21 21:35:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2024-10-21 21:35:09 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-10-21 21:35:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-10-21 21:36:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-10-21 21:40:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2024-10-21 21:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-10-21 21:47:49 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-10-21 22:33:27 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2024-10-21 22:40:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cecaelia": {
+    "criteria": {
+      "kill": "2024-10-21 22:56:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-10-22 22:16:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-10-22 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-11-27 21:47:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2024-11-27 21:52:37 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-11-27 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-11-27 22:01:05 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood": "2024-11-27 22:21:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-11-27 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2024-11-27 22:29:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-11-27 22:34:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2024-11-27 22:36:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-28 00:17:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

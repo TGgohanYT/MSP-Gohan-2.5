@@ -1,0 +1,24 @@
+
+#Server config settings
+[server]
+	#Minimal kill count for rage to enable
+	#Range: 0 ~ 1000
+	minimalKillCount = 3
+	#In Seconds
+	#Range: 0 ~ 1000
+	rageDuration = 20
+	#Max kill count for rage bonus damage
+	#Range: 0 ~ 1000
+	maxKillCountCap = 20
+	#Number of kills, which will multiply the bonus damage eg. 5 means, every 5 kills attack damage will be increased by bonusDamage value
+	#Range: 1 ~ 1000
+	killIntervalBetweenNextBonus = 4
+	#Bonus damage per 4 kills in a row
+	#Range: 0.01 ~ 10.0
+	bonusDamage = 0.5
+	#Enable Fire Damage
+	enableFireDamage = true
+	#Required minimal kill count for fire damage to apply
+	#Range: 0 ~ 1000
+	fireDamageRequiredKillCount = 20
+
